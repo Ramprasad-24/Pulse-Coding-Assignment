@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Sample Review",
+        "review": "This is a sample review for slack.",
+        "date": "2025-12-27",
+        "source": "g2",
+        "reviewer_name": "John Doe",
+        "rating": 5
+    }
+]
