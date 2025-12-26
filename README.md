@@ -15,7 +15,7 @@ python review_scraper.py --company slack --source g2 --start_date 2024-01-01 --e
         "review": "This is a sample review for slack.",
         "date": "2025-12-27",
         "source": "g2",
-        "reviewer_name": "John Doe",
+        "reviewer_name": "Ramprasad Medikurthi",
         "rating": 5
     }
 ]
